@@ -2,7 +2,7 @@
 - 👀 I’m interested in Shopping
 - 🌱 I’m currently learning C/Unix, Google Cloud, Frontend Development
 - 💞️ I’m looking to collaborate on AI stuff
-- 📫 How to reach me: by snail mail
+- 📫 How to reach me: [https://twitter.com/CodeKini]
 - 😄 Pronouns: she/her/queen
 - ⚡ Fun fact: I once had a date with 3 blue men and we ate Twinkies.
 
