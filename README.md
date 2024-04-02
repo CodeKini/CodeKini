@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeKini
 - 👀 I’m interested in Shopping
-- 🌱 I’m currently learning C/Unix
+- 🌱 I’m currently learning C/Unix, Google Cloud, Frontend Development
 - 💞️ I’m looking to collaborate on AI stuff
 - 📫 How to reach me: by snail mail
 - 😄 Pronouns: she/her/queen
